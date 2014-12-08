@@ -76,4 +76,4 @@ def getDeviceNames():
     return devices_static_list
 
 def init():
-    register('a','b','c')
+    print "Configuration",readers_static_list
