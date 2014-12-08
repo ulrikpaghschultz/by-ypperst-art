@@ -30,7 +30,7 @@ r2 = devices_static_list[2]
 r3 = devices_static_list[3]
 tA = "0008555702"
 tB = "0008545568"
-tC = "0008555028"
+tC = "0008553028"
 tD = "0008543858"
 
 readers_static_list = {

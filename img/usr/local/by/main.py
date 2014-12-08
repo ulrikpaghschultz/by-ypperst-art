@@ -6,7 +6,7 @@ def init():
     rfid.init(config.getDeviceNames())
 
 def processTag(device,tag):
-    fileName = config.mapReaderTagToSoundFile(device,tag)
+    fileName = config.mapReaderTagToSoundFile(device.fn,tag)
     print "Read",device,tag,"playing",fileName
     sounds.play(fileName)
 
