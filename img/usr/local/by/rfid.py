@@ -4,7 +4,7 @@ from select import select
 buffer={}
 inputDevices=None
 
-def setDeviceNames(deviceNames):
+def init(deviceNames):
     global inputDevices
     inputDevices=map(InputDevice,deviceNames)
 
@@ -44,7 +44,6 @@ def processEvents(processTag):
 def processTagInternalTest(device,tag):
     print 'Reader',device,'read',tag
 
-def test():
-    deviceNames=['/dev/input/event2','/dev/input/event9']
+def test(deviceNames):
     setDeviceNames(deviceNames)
     processEvents(processTagInternalTest)
