@@ -45,5 +45,5 @@ def processTagInternalTest(device,tag):
     print 'Reader',device,'read',tag
 
 def test(deviceNames):
-    setDeviceNames(deviceNames)
+    init(deviceNames)
     processEvents(processTagInternalTest)
