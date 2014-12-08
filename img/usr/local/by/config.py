@@ -60,7 +60,7 @@ readers_static_list = {
         }
 }
 
-def mapReaderTagToSoundFileo(reader,tag):
+def mapReaderTagToSoundFile(reader,tag):
     tags = readers_static_list[reader]
     if tags==None:
         print "Error: unknown reader:",reader
