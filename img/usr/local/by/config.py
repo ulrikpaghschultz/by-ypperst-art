@@ -93,9 +93,9 @@ seed(87)
 shuffle(files_static_list)
 
 devices_static_list = [
+    '/dev/input/event0',
+    '/dev/input/event1',
     '/dev/input/event2',
-    '/dev/input/event3',
-    '/dev/input/event4',
 ]
 
 T1  = "0008977370"
