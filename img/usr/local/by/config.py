@@ -133,6 +133,9 @@ def mapReaderTagToSoundFile(reader,tag):
         return undefined_sound_file
     return tags[tag]
 
+def getErrorSoundFile():
+    return undefined_sound_file
+
 def getDeviceNames():
     return devices_static_list
 

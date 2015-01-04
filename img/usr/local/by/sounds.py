@@ -1,7 +1,8 @@
 import pygame
 
-def init():
+def init(initialFile):
     pygame.mixer.init()
+    play(initialFile)
 
 def play(file):
     if pygame.mixer.music.get_busy():

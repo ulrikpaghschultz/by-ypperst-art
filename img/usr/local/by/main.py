@@ -2,7 +2,7 @@ import config, rfid, sounds
 
 def init():
     config.init()
-    sounds.init()
+    sounds.init(config.getErrorSoundFile())
     rfid.init(config.getDeviceNames())
 
 def processTag(device,tag):
