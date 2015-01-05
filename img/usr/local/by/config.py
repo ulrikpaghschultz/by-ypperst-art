@@ -37,21 +37,23 @@ left_files_static_list = [
     "sound/musik_Nanna_Schelde_Lullaby.mp3",
     "sound/musik_The_Land_The_Sea_demo.mp3",
     "sound/musik_You_Look_So_Much_Fairer_Now_That_Youre_Fading.mp3",
-    "sound/dyr_Cows_1.mp3",
-    "sound/dyr_Lion_Growling.mp3",
-    "sound/dyr_Pigs_1.mp3",
-    "sound/dyr_birds_efx.mp3",
-    "sound/dyr_cats_cats_meow.mp3",
-    "sound/dyr_fly_buzz_on_window.mp3",
-    "sound/lyd_Trampoline_Fun.mp3",
+    "sounds/musik_01_No_1.mp3",
+    "sounds/musik_02_No_2.mp3",
+    "sounds/musik_04_Farvernes_landskab.mp3",
+    "sounds/musik_04_No_4.mp3",
+    "sounds/musik_05_Hele_verden_er_vores.mp3",
+
     "sound/lyd_Underwater_W_Shingle.mp3",
     "sound/lyd_VB03_36_02_Laugh_Girls_Giggling.mp3",
-    "sound/lyd_freesfx_jingle.mp3",
-    "sound/lyd_freesfx_walk.mp3",
     "sound/lyd_musical_accent_glockenspiel_chime_bright.mp3",
     "sound/lyd_musical_electric_guitar_dry_bb_sus4.mp3",
     "sound/lyd_musical_piano_mysterious_arpeggio_descend.mp3",
-    "sound/lyd_musical_violin_g_major_scale_up_hold_last_note_vibrato.mp3"
+    "sound/lyd_musical_violin_g_major_scale_up_hold_last_note_vibrato.mp3",
+
+    "sound/dyr_Cows_1.mp3",
+    "sound/dyr_Lion_Growling.mp3",
+    "sound/lyd_freesfx_jingle.mp3",
+    "sound/lyd_freesfx_walk.mp3"
 ]
 
 right_files_static_list  = [
@@ -70,21 +72,23 @@ right_files_static_list  = [
     "sound/musik_05_Roede_Gummistoevler.mp3",
     "sound/musik_07_Min_lille_sveske_2003_Digital_Remaster.mp3",
     "sound/musik_13_Godnat_Godnat_Godnat.mp3",
-    "sound/dyr_Cows_1.mp3",
-    "sound/dyr_Lion_Growling.mp3",
-    "sound/dyr_Pigs_1.mp3",
-    "sound/dyr_birds_efx.mp3",
-    "sound/dyr_cats_cats_meow.mp3",
-    "sound/dyr_fly_buzz_on_window.mp3",
-    "sound/lyd_Trampoline_Fun.mp3",
+    "sounds/musik_05_No_5.mp3",
+    "sounds/musik_06_I_skovens_dybe_stille_ro.mp3",
+    "sounds/musik_07_No_7.mp3",
+    "sounds/musik_14_Med_store_undrende_oejne.mp3",
+    "sounds/musik_15_Gi_os_lyset_tilbage.mp3",
+
     "sound/lyd_Underwater_W_Shingle.mp3",
     "sound/lyd_VB03_36_02_Laugh_Girls_Giggling.mp3",
-    "sound/lyd_freesfx_jingle.mp3",
-    "sound/lyd_freesfx_walk.mp3",
     "sound/lyd_musical_accent_glockenspiel_chime_bright.mp3",
     "sound/lyd_musical_electric_guitar_dry_bb_sus4.mp3",
     "sound/lyd_musical_piano_mysterious_arpeggio_descend.mp3",
-    "sound/lyd_musical_violin_g_major_scale_up_hold_last_note_vibrato.mp3"
+    "sound/lyd_musical_violin_g_major_scale_up_hold_last_note_vibrato.mp3",
+
+    "sound/dyr_Pigs_1.mp3",
+    "sound/dyr_birds_efx.mp3",
+    "sound/dyr_cats_cats_meow.mp3",
+    "sound/lyd_Trampoline_Fun.mp3"
 ]
 
 # Select list and shuffle statically & determinstically
